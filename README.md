@@ -8,4 +8,3 @@ Challenges: There was a lot of duplicate data.
 
 Choosing appropriate visualization techniques to use was difficult.
 
-A lot of null values were there in the dataset.
